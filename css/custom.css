@@ -3,3 +3,24 @@
     transition: .6s;
     cursor: pointer;
 }
+.bg-image-1 {
+    background-image: url("../img/slide_01.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image-2 {
+    background-image: url("../img/slide_02.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image-3 {
+    background-image: url("../img/slide_03.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
