@@ -1,87 +1,45 @@
 @font-face {
-    font-family: 'PlayfairDisplay';
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../font/Oswald-ExtraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../font/Oswald-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Oswald';
     font-style: normal;
     font-weight: 400;
-    src: url('../font/PlayfairDisplay-Regular.ttf');
+    src: url('../font/Oswald-Regular.ttf');
 }
 
 @font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: italic;
-    font-weight: 400;
-    src: url('../font/PlayfairDisplay-Italic.ttf');
-}
-
-@font-face {
-    font-family: 'PlayfairDisplay';
+    font-family: 'Oswald';
     font-style: normal;
     font-weight: 500;
-    src: url('../font/PlayfairDisplay-Medium.ttf');
+    src: url('../font/Oswald-Medium.ttf');
 }
 
 @font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: italic;
-    font-weight: 500;
-    src: url('../font/PlayfairDisplay-MediumItalic.ttf');
-}
-
-@font-face {
-    font-family: 'PlayfairDisplay';
+    font-family: 'Oswald';
     font-style: normal;
     font-weight: 600;
-    src: url('../font/PlayfairDisplay-SemiBold.ttf');
+    src: url('../font/Oswald-SemiBold.ttf');
 }
 
 @font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: italic;
-    font-weight: 600;
-    src: url('../font/PlayfairDisplay-SemiBoldItalic.ttf');
-}
-
-@font-face {
-    font-family: 'PlayfairDisplay';
+    font-family: 'Oswald';
     font-style: normal;
     font-weight: 700;
-    src: url('../font/PlayfairDisplay-Bold.ttf');
+    src: url('../font/Oswald-Bold.ttf');
 }
 
-@font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: italic;
-    font-weight: 700;
-    src: url('../font/PlayfairDisplay-BoldItalic.ttf');
-}
-
-@font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: normal;
-    font-weight: 800;
-    src: url('../font/PlayfairDisplay-ExtraBold.ttf');
-}
-
-@font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: italic;
-    font-weight: 800;
-    src: url('../font/PlayfairDisplay-ExtraBoldItalic.ttf');
-}
-
-@font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: normal;
-    font-weight: 900;
-    src: url('../font/PlayfairDisplay-Black.ttf');
-}
-
-@font-face {
-    font-family: 'PlayfairDisplay';
-    font-style: italic;
-    font-weight: 900;
-    src: url('../font/PlayfairDisplay-BlackItalic.ttf');
-}
-
-.font-playfair-display {
-    font-family: 'PlayfairDisplay', serif;
+.font-oswald-display {
+    font-family: 'Oswald', serif;
 }
